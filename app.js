@@ -1,6 +1,6 @@
 const rung = document.getElementById("rung");
 
-// عناصر السطر: تلامس X1 ثم ملف خرج Y1
+// rung elements
 const elements = [
   { type: "contact", label: "X1" },
     { type: "coil", label: "Y1" }
